@@ -25,3 +25,6 @@ nav ul li{
     list-style: none;
     margin-inline: 60px;
 }
+.right{
+    margin-left: 60px;
+}
