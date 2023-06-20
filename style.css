@@ -35,5 +35,14 @@ nav ul li{
 .first{
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    margin:23px 0;
+    
+    
+}
+.leftsection{
+    width: 30% ;
+
+}
+.rightsection{
+    width: 30%;
 }
